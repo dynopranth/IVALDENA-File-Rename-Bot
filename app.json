@@ -8,9 +8,8 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/Mai_bOTs",
-  "website": "https://github.com/No-OnE-Kn0wS-Me",
-  "repository": "https://github.com/No-OnE-Kn0wS-Me/Renamebot",
+  "success_url": "https://t.me/IVALDENA",
+  "repository": "https://github.com/dynopranth/IVALDENA-File-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
