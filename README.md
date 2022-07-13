@@ -9,8 +9,7 @@ ABOUT BOT
 
 ### YOU WANT TO DEPLOY A BOT FOR YOU CLICK THE BUTTON GIVEN BELOW.....  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/IVALDENA-File-Rename-Bot)
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/dynopranth/IVALDENA-File-Rename-Bot/tree/master)
  
 
 ### BOTS ARE MAINTAINED BY
